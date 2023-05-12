@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "385232993598",
+    "project_id": "mtm-icar",
+    "storage_bucket": "mtm-icar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385232993598:android:39b4b650295c7086dd806f",
+        "android_client_info": {
+          "package_name": "com.mtm.icarradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385232993598-riap21276jkqo7fr3o8f77ej94lhttlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiA87DxfaeZ0WJWtz0zuLDfQyeoN1N_qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385232993598-riap21276jkqo7fr3o8f77ej94lhttlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385232993598-juhbeekh9r8r937nsjdgib6as4lealef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mtm.icarradio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

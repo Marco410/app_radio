@@ -1,0 +1,212 @@
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+Variant: release
+Config: release
+Store: /Users/marcocastaneda/Documents/Loomtek/bienestar/upload-keystore.jks
+Alias: upload
+MD5: A3:2A:5A:35:BB:0C:EA:02:B3:A2:0D:7F:51:B9:47:7E
+SHA1: 12:48:59:D5:DE:57:0E:E6:33:6B:85:10:85:D0:BF:14:BF:02:1B:A4
+SHA-256: 5F:0D:A0:59:F9:4D:73:68:25:CF:02:C6:79:29:30:51:22:3F:C4:FA:31:68:27:E8:B9:C4:8E:3F:13:A1:66:83
+Valid until: Saturday, October 5, 2047
+----------
+Variant: profile
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :audioplayers:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :connectivity_plus:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :firebase_core:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :firebase_messaging:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :flutter_plugin_android_lifecycle:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :flutter_secure_storage:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :image_gallery_saver:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :image_picker:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :path_provider_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :permission_handler_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :shared_preferences_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :sqflite:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :url_launcher_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :video_player_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :wakelock:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
+----------
+
+> Task :webview_flutter_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/marcocastaneda/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 93:69:BA:0A:2B:38:8E:C5:F4:4F:F8:4B:E7:31:63:8D
+SHA1: 5F:E7:84:FA:B0:D7:E0:5E:42:7B:12:D7:90:53:31:B2:EF:ED:D5:9B
+SHA-256: 45:B1:3D:65:E7:09:DE:61:08:9A:9D:7E:F2:F0:39:54:AA:6F:9E:54:9A:CE:06:C5:E4:1A:8B:F1:BE:6E:9C:7C
+Valid until: Friday, December 22, 2051
